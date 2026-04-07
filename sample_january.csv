@@ -1,0 +1,16 @@
+item,quantity,price,discount,brand,date,store
+Tata Salt,2,22.00,0,Tata,2024-01-10,DMart
+Amul Milk 1L,4,62.00,0,Amul,2024-01-10,DMart
+Basmati Rice 5kg,1,380.00,20,India Gate,2024-01-10,DMart
+Aashirvaad Atta 5kg,1,265.00,0,Aashirvaad,2024-01-10,DMart
+Tomato,2,28.00,0,,2024-01-10,DMart
+Onion 1kg,1,35.00,0,,2024-01-10,DMart
+Potato 1kg,1,30.00,0,,2024-01-10,DMart
+Toor Dal 1kg,1,145.00,0,,2024-01-10,DMart
+Sunflower Oil 1L,2,135.00,10,Fortune,2024-01-10,DMart
+Surf Excel 1kg,1,210.00,0,HUL,2024-01-10,DMart
+Amul Butter 500g,1,275.00,0,Amul,2024-01-10,DMart
+Maggi Noodles,3,14.00,0,Nestle,2024-01-10,DMart
+Bournvita 500g,1,290.00,30,Cadbury,2024-01-10,DMart
+Colgate Toothpaste,1,110.00,0,Colgate,2024-01-10,DMart
+Lays Chips,2,20.00,0,Pepsi,2024-01-10,DMart
